@@ -1,0 +1,2 @@
+model_checkpoint_path: "190327_rnn_timeSeriesModel"
+all_model_checkpoint_paths: "190327_rnn_timeSeriesModel"
